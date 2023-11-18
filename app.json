@@ -1,0 +1,31 @@
+{
+  "_comment": "This file is generated. Please edit .homeycompose/app.json instead.",
+  "id": "com.moeshouse.community",
+  "version": "1.0.0",
+  "compatibility": ">=5.0.0",
+  "sdk": 3,
+  "platforms": [
+    "local",
+    "cloud"
+  ],
+  "name": {
+    "en": "MOES Community"
+  },
+  "description": {
+    "en": "Enjoy a whole-house-intelligent lifestyle with MOES devices."
+  },
+  "brandColor": "#baa586",
+  "category": [
+    "climate"
+  ],
+  "permissions": [],
+  "images": {
+    "small": "/assets/images/small.png",
+    "large": "/assets/images/large.png",
+    "xlarge": "/assets/images/xlarge.png"
+  },
+  "author": {
+    "name": "Thomas Happich",
+    "email": "nymus.ano@gmx.net"
+  }
+}

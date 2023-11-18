@@ -1,0 +1,54 @@
+{
+    "id": "com.moeshouse.community",
+    "version": "1.0.0",
+    "compatibility": ">=5.0.0",
+    "sdk": 3,
+    "platforms": [
+        "local",
+        "cloud"
+    ],
+    "name": {
+        "en": "MOES Community"
+    },
+    "description": {
+        "en": "Enjoy a whole-house-intelligent lifestyle with MOES devices."
+    },
+    "brandColor": "#baa586",
+    "homepage": "https://moeshouse.com/",
+    "category": [
+        "climate"
+    ],
+    "tags": {
+        "en": "MOES"
+    },
+    "permissions": [],
+    "images": {
+        "small": "/assets/images/small.png",
+        "large": "/assets/images/large.png",
+        "xlarge": "/assets/images/xlarge.png"
+    },
+    "author": {
+        "name": "Thomas Happich",
+        "email": "nymus.ano@gmx.net"
+    },
+    "source": "https://github.com/Homey-Community/com.moeshouse.community",
+    "support": "https://github.com/Homey-Community/com.moeshouse.community/wiki",
+    "bugs": {
+        "url": "https://github.com/Homey-Community/com.moeshouse.community/labels/bug"
+    },
+    "contributors": {
+        "developers": [
+            {
+                "name": "Thomas Happich"
+            }
+        ],
+        "translators": []
+    },
+    "contributing": {
+        "donate": {
+            "paypal": {
+                "username": "habbo656"
+            }
+        }
+    }
+}

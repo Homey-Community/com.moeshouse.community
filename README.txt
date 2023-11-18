@@ -1,0 +1,3 @@
+MOES is a brand for anyone interested in using high-quality smart home devices to enjoy a whole-house-intelligent lifestyle. Our mission is to design and provide comprehensive solutions to house devices for the enjoyment of our honored customers.
+
+MOES devotes itself to the continuous improvement and innovation of smart home devices. To enjoy, not only to live, is the original intention and idea for designing one smart home device.
